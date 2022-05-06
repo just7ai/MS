@@ -1,0 +1,24 @@
+name: zb-cailapub
+
+entryPoint: main.sc
+
+botEngine: v2
+language: ru
+
+tests:
+  include:
+    - test.xml
+
+sts:
+    noMatchThreshold: 0.2
+
+caila:
+    noMatchThreshold: 0.2
+
+injector:
+  smtp:
+    host: "smtp.yandex.ru"
+    port: "443"
+    from: "v.shilun@chat-ai.ru"
+    user: "jv.shilun@chat-ai.ru"
+    password: "wgdozugcvqaevoyn"

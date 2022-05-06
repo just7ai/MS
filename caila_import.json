@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "mini_test-248359066-kbq",
-    "name" : "mini_test-248359066-kbq",
+    "id" : "ms-248359066-pZK",
+    "name" : "ms-248359066-pZK",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 6722852,
+    "id" : 8542634,
     "path" : "/cat",
     "enabled" : true,
     "shared" : false,
@@ -30,7 +30,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 6722853,
+    "id" : 8542635,
     "path" : "/номер",
     "enabled" : true,
     "shared" : false,
@@ -51,7 +51,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 6722854,
+    "id" : 8542636,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -60,7 +60,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 6722855,
+    "id" : 8542637,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
@@ -71,7 +71,7 @@
   } ],
   "entities" : [ {
     "entity" : {
-      "id" : 124135,
+      "id" : 134475,
       "name" : "Новая_сущность",
       "enabled" : true,
       "shared" : false,
@@ -84,7 +84,7 @@
       "client" : false
     },
     "records" : [ {
-      "id" : 12103806,
+      "id" : 12642739,
       "type" : "pattern",
       "rule" : [ "@duckling.number" ],
       "value" : ""
